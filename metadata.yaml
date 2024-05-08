@@ -5,6 +5,9 @@ contributor:
     agent_name: Rahn, A. D.
     gutenberg_agent_id: '24856'
     url: http://www.gutenberg.org/2009/agents/24856
+covers:
+- cover_type: archival
+  image_path: 73435-h/images/cover_sm.jpg
 creator:
   author:
     agent_name: Barbour, Ralph Henry
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2067
     wikipedia: https://en.wikipedia.org/wiki/Ralph_Henry_Barbour
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73435#The-Fighting-Scrub
 gutenberg_issued: '2024-04-20'
 gutenberg_type: Text
 identifiers:
